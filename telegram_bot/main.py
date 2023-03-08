@@ -34,3 +34,6 @@ def handle_category_choice(message):
 # запуск бота
 if __name__ == '__main__':
     bot.polling(none_stop=True)
+
+
+
